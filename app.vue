@@ -1,8 +1,8 @@
 <template>
 <div class="m-0 p-0 h-screen flex flex-col">
-  <header class="lg:h-[12vh] lg:px-24 h-12 bg-white sticky top-0 flex justify-between items-center  bg-[#fff] grow-0">
+  <header class="lg:h-[12vh] lg:px-20 h-12 bg-white sticky top-0 flex justify-between items-center  bg-[#fff] grow-0">
     <div class="left-2 top-2 h-24 ml-2 w-24 lg:w-36 lg:h-36">
-      <img src="./assets/mobile-pics/Artboard 1full logo.png" alt="avatar" class="h-full w-full mt-1">
+      <img src="./assets/mobile-pics/Artboard.png" alt="avatar" class="h-full w-full mt-1">
     </div>
     <div class="hidden lg:flex text-[#004749] justify-between gap-x-10 mt-3 items-center">
       <p>Solution</p>
@@ -31,7 +31,7 @@
   <div class="lg:flex lg:gap-x-10 lg:bg-[#047d80] lg:h-[88vh] lg:justify-center">
     <div class="bg-[#047d80] pt-8 pb-6 text-[#fff] lg:pl-20 lg:pt-16 lg:min-w-[650px] lg:max-w-[650px] lg:shrink-0 lg:grow">
       <h2 class="text-center lg:text-left text-xl font-bold px-5 lg:px-0 lg:text-4xl">
-        Run your <span class="text-[#05dee3]">sales compensation</span> programs in <img src="./assets/mobile-pics/cruise mode! mobile.png" alt="crrtyu" class="lg:h-[27px] lg:w-auto h-[17.5px] w-32 inline mb-1">
+        Run your <span class="text-[#05dee3]">sales compensation</span> programs in <img src="./assets/mobile-pics/cruise.png" alt="crrtyu" class="lg:h-[27px] lg:w-auto h-[17.5px] w-32 inline mb-1">
       </h2>
       <p class="text-[9.5px] text-center lg:text-left px-3 mt-3 mb-4 lg:pl-0 lg:pr-24 lg:text-xl lg:mt-10">
         Build, run and automate your incentive compensation plans to create transparency and achieve operationl efficiency.
@@ -48,28 +48,28 @@
         <div class="slider grow-0">
           <div class="slide-track">
             <div class="slide">
-              <img src="./assets/desktop-pic/Lupin white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Lupin.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/Swigg white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Swigg.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/boehringer-ingelheim-international white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/boehringer.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/Astrazeneca white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Astrazeneca.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/Incyte white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Incyte.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/Lonza white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Lonza.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/Zydus white.png" class="h-[40px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/Zydus.png" class="h-[40px] w-auto" alt="" />
             </div>
             <div class="slide">
-              <img src="./assets/desktop-pic/sanofi white.png" class="h-[35px] w-auto" alt="" />
+              <img src="./assets/desktop-pic/sanofi.png" class="h-[35px] w-auto" alt="" />
             </div>
           </div>
         </div>
@@ -85,20 +85,20 @@
         </p>
       </div>
       <div class="flex justify-center gap-x-6 ml-2 pt-6 pb-5 px-8 lg:hidden">
-          <img src="./assets/mobile-pics/G2 monile rating.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
-          <img src="./assets/mobile-pics/Gartner mobile rating.png" alt="avatar" class="h-auto max-w-[156px] min-w-[104px]">
+          <img src="./assets/mobile-pics/G2rating.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
+          <img src="./assets/mobile-pics/Gartnerrating.png" alt="avatar" class="h-auto max-w-[156px] min-w-[104px]">
       </div>
       <div class="flex justify-center gap-x-6 mr-4 px-14 lg:hidden">
-          <img src="./assets/mobile-pics/Copy of SalesCompensation_HighPerformer_HighPerformer copy.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
-          <img src="./assets/mobile-pics/Copy of SalesCompensation_EasiestToDoBusinessWith_Enterprise_EaseOfDoingBusinessWith copy.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
+          <img src="./assets/mobile-pics/highPerformer.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
+          <img src="./assets/mobile-pics/easeBusiness.png" alt="avatar" class="h-auto max-w-[120px] min-w-[80px]">
       </div>
     </div>
     <div class="hidden lg:flex lg:shrink lg:pt-10 lg:justify-center lg:items-end">
       <div class="lg:relative lg:flex lg:justify-center lg:items-center lg:mr-20 w-[62%]">
         <img src="./assets/desktop-pic/heroImage.png" alt="avatar" class="w-auto flex-initial">
-        <img src="./assets/desktop-pic/G2 rating home page.png" alt="avatar" class="h-auto w-[35%] absolute top-[20%] left-[-10%]">
+        <img src="./assets/desktop-pic/G2rating.png" alt="avatar" class="h-auto w-[35%] absolute top-[20%] left-[-10%]">
         <img src="./assets/desktop-pic/easyBusiness.png" alt="avatar" class="h-auto w-[30%] absolute top-[-15%] left-[10%]">
-        <img src="./assets/desktop-pic/Gartner rating home page.png" alt="avatar" class="h-auto w-[50%] absolute top-[-10%] left-[65%]">
+        <img src="./assets/desktop-pic/Gartner.png" alt="avatar" class="h-auto w-[50%] absolute top-[-10%] left-[65%]">
         <img src="./assets/desktop-pic/highPerformer.png" alt="avatar" class="h-auto w-[30%] absolute top-[10%] right-[-18%]">
       </div>
     </div>
@@ -128,16 +128,16 @@
             <img src="./assets/mobile-pics/Incyte_logo.svg.png" class="h-[50px] w-auto" alt="" />
           </div>
           <div class="slide">
-            <img src="./assets/mobile-pics/logo indoco.png" class="h-[40px] w-auto" alt="" />
+            <img src="./assets/mobile-pics/logoindoco.png" class="h-[40px] w-auto" alt="" />
           </div>
           <div class="slide">
-            <img src="./assets/mobile-pics/logo sanofi.png" class="h-[35px] w-auto" alt="" />
+            <img src="./assets/mobile-pics/logosanofi.png" class="h-[35px] w-auto" alt="" />
           </div>
           <div class="slide">
             <img src="./assets/mobile-pics/Looza.png" class="h-[50px] w-auto" alt="" />
           </div>
           <div class="slide">
-            <img src="./assets/mobile-pics/Zydus logo.png" class="h-[50px] w-auto" alt="" />
+            <img src="./assets/mobile-pics/Zyduslogo.png" class="h-[50px] w-auto" alt="" />
           </div>
         </div>
       </div>
