@@ -5,53 +5,9 @@
       <img src="./assets/mobile-pics/Artboard.png" alt="avatar" class="h-full w-full mt-1">
     </div>
     <div class="hidden lg:flex text-[#004749] justify-between gap-x-10 mt-3 items-center">
-      <p>Solution </p>
+      <p>Solution</p>
       <p>Industries</p>
       <p>Resources</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
-      <p>Company</p>
       <p>Company</p>
       <p>Pricing</p>
       <div class="flex gap-x-6">
